@@ -9,8 +9,8 @@ After I have been working as a Webdesdigner, I currently ran through a six month
 <br/>
 <style>
       table,
-      th,
-      tr {
+      th
+      {
         padding: 5px;
       }
 </style>
