@@ -8,7 +8,7 @@ After I have been working as a Webdesdigner, I currently ran through a six month
 
 <br/>
 
-<table>
+<table border-radius: 10px;>
     <thead>
         <tr>
             <th style="padding-top: 5px;"><img src="https://skillicons.dev/icons?i=javascript" /></th>
