@@ -10,8 +10,8 @@ After I have been working as a Webdesdigner, I currently ran through a six month
 
 <table>
     <thead>
-        <tr align="center">
-            <th style="padding: 5px align-center"><img src="https://skillicons.dev/icons?i=javascript" /></th>
+        <tr>
+            <th align="center" style="padding: 5px align-center"><img src="https://skillicons.dev/icons?i=javascript" /></th>
             <th style="padding: 5px;"><img src="https://skillicons.dev/icons?i=typescript" /></th>
             <th style="padding: 5px;">Überschrift2</th>
             <th style="padding: 5px;">Überschrift3</th>
