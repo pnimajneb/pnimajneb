@@ -1,4 +1,4 @@
-### Hi I'm Benjamin :wave:,
+#### Hi I'm Benjamin :wave:,
 
 <p>
 After I have been working as a Webdesdigner, I currently ran through a six months full-time Bootcamp in programming with a focus on Front-End. I am passionate about diving deeper into the languages I already know and I am curious about learning new languages. I am excited about implementing UX/UI Design into coding. I am ready to start new projects with a hands-on mentality and teamplayer skills.
