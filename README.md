@@ -25,14 +25,20 @@ After I have been working as a Webdesdigner, I currently ran through a six month
         <tr>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=git" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=github" /></td>
-            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=figma" /></td>
-            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=wordpress" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=vite" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=sql" /></td>
         </tr>
         <tr>
-            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=node" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=node.js" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=express" /></td>
-            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=drizzle" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=figma" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=prisma" /></td>
+        </tr>
+        <tr>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=wordpress" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=e-commerce" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=photoshop" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=premiere" /></td>
         </tr>
     </tbody>
 </table>
