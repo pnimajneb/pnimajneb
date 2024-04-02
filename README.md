@@ -7,8 +7,8 @@ After I have been working as a Webdesdigner, I currently ran through a six month
 <h2>My Tech Stack</h2>
 
 <br/>
-
-<table style= "border-radius: 10px;">
+<div align="center">
+<table>
     <tbody>
         <tr>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=javascript" /></td>
@@ -36,6 +36,7 @@ After I have been working as a Webdesdigner, I currently ran through a six month
         </tr>
     </tbody>
 </table>
+</div>
 
 <!--
 **pnimajneb/pnimajneb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
