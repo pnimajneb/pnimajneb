@@ -7,17 +7,13 @@ After I have been working as a Webdesdigner, I currently ran through a six month
 <h2>My Tech Stack</h2>
 
 <br/>
-<!--
 <style>
       table,
       th,
-      td {
+      tr {
         padding: 5px;
       }
-    </style>
-    -->
 
-<main>
     <figure>
         <table>
             <thead>
@@ -30,7 +26,7 @@ After I have been working as a Webdesdigner, I currently ran through a six month
             </thead>
         </table>
     </figure>
-</main>
+</style>
     
 <div>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,vscode,git,github,figma,tailwind" />
