@@ -14,7 +14,7 @@ After I have been working as a Webdesdigner, I currently ran through a six month
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=javascript" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=typescript" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=react" /></td>
-            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=next" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=nextjs" /></td>
         </tr>
           <tr>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=html" /></td>
@@ -26,10 +26,10 @@ After I have been working as a Webdesdigner, I currently ran through a six month
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=git" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=github" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=vite" /></td>
-            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=sql" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=npm" /></td>
         </tr>
         <tr>
-            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=node.js" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=nodejs" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=express" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=figma" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=prisma" /></td>
@@ -42,7 +42,7 @@ After I have been working as a Webdesdigner, I currently ran through a six month
         </tr>
         <tr>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=webflow" /></td>
-            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=e-commerce" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=ecommerce" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=supabase" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=vercel" /></td>
         </tr>
