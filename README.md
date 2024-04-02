@@ -13,7 +13,7 @@ After I have been working as a Webdesdigner, I currently ran through a six month
       tr {
         padding: 5px;
       }
-
+<main>
     <figure>
         <table>
             <thead>
@@ -26,6 +26,7 @@ After I have been working as a Webdesdigner, I currently ran through a six month
             </thead>
         </table>
     </figure>
+</main>
 </style>
     
 <div>
