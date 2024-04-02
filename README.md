@@ -13,6 +13,7 @@ After I have been working as a Webdesdigner, I currently ran through a six month
       tr {
         padding: 5px;
       }
+</style>
 <main>
     <figure>
         <table>
@@ -27,7 +28,6 @@ After I have been working as a Webdesdigner, I currently ran through a six month
         </table>
     </figure>
 </main>
-</style>
     
 <div>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,vscode,git,github,figma,tailwind" />
