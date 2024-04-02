@@ -7,6 +7,7 @@ After I have been working as a Webdesdigner, I currently ran through a six month
 <h2>My Tech Stack</h2>
 
 <br/>
+<!--
 <style>
       table,
       th,
@@ -14,6 +15,7 @@ After I have been working as a Webdesdigner, I currently ran through a six month
         padding: 5px;
       }
     </style>
+    -->
 
 <main>
     <figure>
