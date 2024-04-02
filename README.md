@@ -35,16 +35,16 @@ After I have been working as a Webdesdigner, I currently ran through a six month
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=prisma" /></td>
         </tr>
         <tr>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=postgresql" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=supabase" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=vercel" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=photoshop" /></td>
-            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=pr" /></td>
         </tr>
         <tr>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=pr" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=au" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=webflow" /></td>
             <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=wordpress" /></td>
-            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=woocommerce" /></td>
         </tr>
     </tbody>
 </table>
