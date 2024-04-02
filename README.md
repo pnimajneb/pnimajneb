@@ -9,21 +9,33 @@ After I have been working as a Webdesdigner, I currently ran through a six month
 <br/>
 
 <table style= "border-radius: 10px;">
-    <thead>
+    <tbody>
         <tr>
-            <th style="padding: 5px;"><img src="https://skillicons.dev/icons?i=javascript" /></th>
-            <th style="padding: 5px;"><img src="https://skillicons.dev/icons?i=typescript" /></th>
-            <th style="padding: 5px;"><img src="https://skillicons.dev/icons?i=react" /></th>
-            <th style="padding: 5px;"><img src="https://skillicons.dev/icons?i=next" /></th>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=javascript" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=typescript" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=react" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=next" /></td>
         </tr>
-    </thead>
+          <tr>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=html" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=css" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=vscode" /></td>
+        </tr>
+        <tr>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=git" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=github" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=figma" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=wordpress" /></td>
+        </tr>
+        <tr>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=node" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=express" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=drizzle" /></td>
+            <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=prisma" /></td>
+        </tr>
+    </tbody>
 </table>
-
-    
-<div>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,vscode,git,github,figma,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</div>
 
 <!--
 **pnimajneb/pnimajneb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
