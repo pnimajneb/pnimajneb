@@ -4,6 +4,12 @@
 After I have been working as a Webdesdigner, I currently ran through a six months full-time Bootcamp in programming with a focus on Front-End. I am passionate about diving deeper into the languages I already know and I am curious about learning new languages. I am excited about implementing UX/UI Design into coding. I am ready to start new projects with a hands-on mentality and teamplayer skills.
 </p>
 
+<h4>Recent projects</h4>
+<ul>
+    <li><link rel="midterm project" href="https://github.com/devhausleipzigacademy/camp11-midterm">Cinema Application</li>
+    <li><link rel="final project" href="">Networking Platform (still internal)</li>
+</ul>
+
 <h2>My Tech Stack :computer:</h2>
 
 <br/>
