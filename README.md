@@ -6,7 +6,7 @@ After I have been working as a Webdesdigner, I currently ran through a six month
 
 <h4>Recent projects</h4>
 <ul>
-    <li><link rel="midterm project" href="https://github.com/devhausleipzigacademy/camp11-midterm">Cinema Application</li>
+    <li><a href="https://github.com/devhausleipzigacademy/camp11-midterm">Cinema Application</a></li>
     <li><link rel="final project" href="">Networking Platform (still internal)</li>
 </ul>
 
