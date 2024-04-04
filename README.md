@@ -2,6 +2,7 @@
 
 <p>
 After I have been working as a Webdesigner, I currently ran through a six months full-time Bootcamp in programming with a focus on Front-End. I am passionate about diving deeper into coding, both Front-End and Back-End. I am excited about combining my already gained experiences in UX/UI Design with coding. I am ready to start new projects with a hands-on mentality and teamplayer skills.
+<br>
 Other than that I am a Zen :pray: and Contemporary Dance :dancer: practitioner.
 </p>
 
