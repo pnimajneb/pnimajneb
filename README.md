@@ -1,7 +1,8 @@
 <h1>Hi I'm Benjamin :wave:,</h1>
 
 <p>
-After I have been working as a Webdesdigner, I currently ran through a six months full-time Bootcamp in programming with a focus on Front-End. I am passionate about diving deeper into the languages I already know and I am curious about learning new languages. I am excited about implementing UX/UI Design into coding. I am ready to start new projects with a hands-on mentality and teamplayer skills.
+After I have been working as a Webdesigner, I currently ran through a six months full-time Bootcamp in programming with a focus on Front-End. I am passionate about diving deeper into coding, both Front-End and Back-End. I am excited about combining my already gained experiences in UX/UI Design with coding. I am ready to start new projects with a hands-on mentality and teamplayer skills.
+Other than that I am a Zen :pray: and Contemporary Dance :dancer: practitioner.
 </p>
 
 <h4>Recent projects</h4>
